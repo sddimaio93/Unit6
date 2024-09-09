@@ -1,0 +1,8 @@
+C:\Users\sddim\source\repos\IT481_Unit6_ShawneeDimaio\IT481_Unit6_ShawneeDimaio\obj\Debug\IT481_Unit6_ShawneeDimaio.csproj.AssemblyReference.cache
+C:\Users\sddim\source\repos\IT481_Unit6_ShawneeDimaio\IT481_Unit6_ShawneeDimaio\obj\Debug\IT481_Unit6_ShawneeDimaio.csproj.SuggestedBindingRedirects.cache
+C:\Users\sddim\source\repos\IT481_Unit6_ShawneeDimaio\IT481_Unit6_ShawneeDimaio\obj\Debug\IT481_Unit6_ShawneeDimaio.csproj.CoreCompileInputs.cache
+C:\Users\sddim\source\repos\IT481_Unit6_ShawneeDimaio\IT481_Unit6_ShawneeDimaio\bin\Debug\IT481_Unit6_ShawneeDimaio.exe.config
+C:\Users\sddim\source\repos\IT481_Unit6_ShawneeDimaio\IT481_Unit6_ShawneeDimaio\bin\Debug\IT481_Unit6_ShawneeDimaio.exe
+C:\Users\sddim\source\repos\IT481_Unit6_ShawneeDimaio\IT481_Unit6_ShawneeDimaio\bin\Debug\IT481_Unit6_ShawneeDimaio.pdb
+C:\Users\sddim\source\repos\IT481_Unit6_ShawneeDimaio\IT481_Unit6_ShawneeDimaio\obj\Debug\IT481_Unit6_ShawneeDimaio.exe
+C:\Users\sddim\source\repos\IT481_Unit6_ShawneeDimaio\IT481_Unit6_ShawneeDimaio\obj\Debug\IT481_Unit6_ShawneeDimaio.pdb
